@@ -20,7 +20,7 @@ This portfolio includes a variety of projects ranging from automation scripts to
 
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
-| [Project 1: Data Analysis Pipeline](link) | A Python-based data pipeline that automates the extraction, transformation, and loading (ETL) of large datasets. Designed for scalability and error handling. | `Pandas`, `SQLAlchemy`, `Airflow` |
+| [Project 1: Data Analysis](https://github.com/gabrielmartins88/python-projects/tree/data-analysis) | A Python-based data pipeline that automates the extraction, transformation, and loading (ETL) of large datasets. Designed for scalability and error handling. | `Pandas`, `SQLAlchemy`, `Airflow` |
 | [Project 2: Web Scraping Tool](link) | A web scraper that gathers data from multiple sources and organizes it in a database. Includes error handling and logging. | `BeautifulSoup`, `Requests`, `SQLite` |
 | [Project 3: RESTful API](link) | A REST API built with Flask, designed to serve data and handle CRUD operations securely. | `Flask`, `SQLite`, `Docker` |
 | [Project 4: Machine Learning Model](link) | A machine learning pipeline to predict user behavior. Trained and optimized a classifier for production deployment. | `Scikit-Learn`, `NumPy`, `Pandas` |
